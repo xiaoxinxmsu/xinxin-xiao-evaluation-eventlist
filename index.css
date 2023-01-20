@@ -14,3 +14,63 @@ body {
     font-size: 1.6rem;
 }
 
+.event-list-app {
+    border: 1px solid rgba(234, 234, 149, 0.864);
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    padding: 3rem;
+    
+    
+}
+
+.event-list-app__btn {
+    margin: 1rem 0px;
+    padding: 1rem;
+    border:rgb(85, 189, 224);
+    border-radius: 0.5rem;
+    color:white;
+    background-color: rgb(85, 189, 224);
+}
+
+.event-list-app__btn{
+    background-color: rgb(85, 189, 224);
+}
+
+.event-list-app__table {
+    border: 1rem solid #e6e2d3;
+    border-radius: 0.5rem;
+    height: 12rem;
+    width: 800px;
+    margin: auto;
+    padding: 3rem;
+}
+
+.event-list-app__table-title{
+    font-size: 3rem;
+}
+
+.event {
+    background-color: #e6e2d3;
+    font-size: 2rem;
+}
+
+.event__button-cancel{
+    background-color:#c94c4c;
+    font-size: 2rem;
+}
+
+.event__button-save{
+    background-color:#008cba;
+    font-size: 2rem;
+}
+
+.event__button-edit{
+    background-color:#008cba;
+    font-size: 2rem;
+}
+
+.event__button-delete{
+    background-color:#c94c4c;
+    font-size: 2rem;
+}
